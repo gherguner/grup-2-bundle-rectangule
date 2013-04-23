@@ -14,3 +14,4 @@ YÜRÜYÜŞ TANIMA SİSTEMİ: BUNDLE RECTANGLE YAKLAŞIMI
 
 ![](http://image.bayimg.com/2023e22af4a188207e51b7aa8fb219fc89678652.jpg)
 
+!
