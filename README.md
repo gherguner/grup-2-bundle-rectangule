@@ -13,3 +13,5 @@ YÜRÜYÜŞ TANIMA SİSTEMİ: BUNDLE RECTANGLE YAKLAŞIMI
 4) Yürüyüş anında aynı kişinin dikdörtgen içine alınmış görüntülerinin genişliği, yüksekliği,  alanı,  çapraz açısı, frekansının ortalaması, toplam spectral güç alınarak yürüyüş karakteri belirlenir.
 
 ![](http://image.bayimg.com/2023e22af4a188207e51b7aa8fb219fc89678652.jpg)
+
+!!
