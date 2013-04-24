@@ -14,4 +14,9 @@ YÜRÜYÜŞ TANIMA SİSTEMİ: BUNDLE RECTANGLE YAKLAŞIMI
 
 ![](http://image.bayimg.com/2023e22af4a188207e51b7aa8fb219fc89678652.jpg)
 
-!
+---
+
+SDHA2010 veritabanında ilgili özellik çıkarımı yapıldığında örnek ekran çıktıları:
+
+![](http://s1.directupload.net/images/130424/5sdnabkg.jpg)
+![](http://s2.ipicture.ru/uploads/20130424/pHAn4cZK.jpg)
