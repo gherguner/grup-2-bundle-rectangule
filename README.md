@@ -1,5 +1,4 @@
 
-
 YÜRÜYÜŞ TANIMA SİSTEMİ: BUNDLE RECTANGLE YAKLAŞIMI
 
 İlgili makalede özellik çıkarımı aşağıdaki şekilde yapılmıştır:
@@ -28,7 +27,7 @@ Analizi yapılacak hareketler:
 * Tek el  kaldırma(wave1)
 * İki el kaldırma(wave2)
 * Durma(standing)
-  
+* Kazma
 SDHA2010 veritabanından seçilen tek el kaldırma eğitim seti  örnekleri:
 
 ![](http://savepic.ru/4633054.jpg)
@@ -61,25 +60,17 @@ Her bir hareketin 20 tane örnek görüntüsü vardır. Bu her bir harekete ait 
 Sonuç olarak ağ 5 girişten (her bir hareket için ortalama yükseklik, genişlik, alan, açı, spektral gücü), 3 çıkıştan oluşmaktadır. 
 
 Ağın çıkışları:
-
-* 1 0 0      ise tek el kaldırma(wave1)
-* 0 1 0      ise durma(standing)
-* 0 0 1      ise iki el kadırma(wave2)  olarak kabul edilmiştir. 
+1 0 0  0    ise tek el kaldırma(wave1)
+0 1 0  0    ise durma(standing)
+0 0 1  0    ise kazma 
+0 0 0  1    ise iki el kadırma(wave2)  
 
 Yapay sinir ağı Matlab’ın nprtool arayüzü ile tasarlanmıştır.
 
 Oluşrulan ağın ekran çıktısı:
 
-![](http://s2.ipicture.ru/uploads/20130531/NE30T5Qz.jpg)
+![](http://savepic.ru/4640591.jpg)
 
-Ağın eğitim sonuçları:
+Ağın eğitim, test , doğrulama setinin sonuçları:
 
-![](http://s2.ipicture.ru/uploads/20130531/WXMyLe2J.jpg)
-
-Ağın test sonuçları:
-
-![](http://s1.directupload.net/images/130531/m5qtuil5.jpg)
-
-
-
-
+http://iceimg.com/i/03/8d/83d2c48804.jpg
