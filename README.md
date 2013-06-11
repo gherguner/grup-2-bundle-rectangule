@@ -1,4 +1,3 @@
-
 YÜRÜYÜŞ TANIMA SİSTEMİ: BUNDLE RECTANGLE YAKLAŞIMI
 
 İlgili makalede özellik çıkarımı aşağıdaki şekilde yapılmıştır:
@@ -28,6 +27,7 @@ Analizi yapılacak hareketler:
 * İki el kaldırma(wave2)
 * Durma(standing)
 * Kazma
+
 SDHA2010 veritabanından seçilen tek el kaldırma eğitim seti  örnekleri:
 
 ![](http://savepic.ru/4633054.jpg)
@@ -73,4 +73,4 @@ Oluşrulan ağın ekran çıktısı:
 
 Ağın eğitim, test , doğrulama setinin sonuçları:
 
-http://iceimg.com/i/03/8d/83d2c48804.jpg
+![](http://iceimg.com/i/03/8d/83d2c48804.jpg)
